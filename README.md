@@ -19,13 +19,13 @@ I participated to data science competition in the past (top 5% at "Predict the C
 
 <br> ![github stats](https://github-readme-stats.vercel.app/api?username=thibaultbl&show_icons=true)
 
-## 🔧 Technologies & Tools
+## :green_heart: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99b3ff)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=pycharm&logoColor=white&color=ffb399)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffb600)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=b3ff99)
 
 
-### 📮 How to Contact me!
+### :deciduous_tree: How to Contact me!
 - LinkedIn: https://www.linkedin.com/in/thibault-blanc
 
