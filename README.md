@@ -17,7 +17,7 @@ I participated to data science competition in the past (top 5% at "Predict the C
 - 🤔 &mdash; Try to contribute to open source more lately.
 - You can see in my repository some of my personal works that are public (most are outdated). 
 
-<br> ![github stats](https://github-readme-stats.vercel.app/api?username=queraq&show_icons=true)
+<br> ![github stats](https://github-readme-stats.vercel.app/api?username=thibaultbl&show_icons=true)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99b3ff)
