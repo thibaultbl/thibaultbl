@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/main/wave.gif" width="30px">
+I am Data Scientist / Machine Learning Engineer / Statistical Engineer / Working with data & code.
 
-<!--
-**thibaultbl/thibaultbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Thibault Blanc &mdash; @thibaultbl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Right now I'm working as a Data Scientist in a confidential position, focused on cybersecurity challenge. 
+
+I like to bring values using data and I am passionate about Machine Learning in production.
+
+I participated to data science competition in the past (top 5% at "Predict the Crude Oil production trend" by GROUPE SOCIETE GENERALE: (https://challengedata.ens.fr/en/challenge/25/predict_the_crude_oil_production_trend.html), but I have lot of things to learn outside the modeling part of data science for the moment.
+
+
+### 🌱 My Values
+- 😎 &mdash; Passionate about Python, clean code, MLops and statistics.
+- 🤔 &mdash; Try to contribute to open source more lately.
+- You can see in my repository some of my personal works that are public (most are outdated). 
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99b3ff)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=pycharm&logoColor=white&color=ffb399)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffb600)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=b3ff99)
+
+
+### 📮 Get In Touch!
+- LinkedIn: https://www.linkedin.com/in/thibault-blanc
+
