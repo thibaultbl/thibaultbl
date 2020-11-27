@@ -12,7 +12,7 @@ I like to bring values using data and I am passionate about Machine Learning in 
 I participated to data science competition in the past (top 5% at "Predict the Crude Oil production trend" by GROUPE SOCIETE GENERALE: (https://challengedata.ens.fr/en/challenge/25/predict_the_crude_oil_production_trend.html), but I have lot of things to learn outside the modeling part of data science for the moment.
 
 
-### file:///tmp/mozilla_thibault0/suitcase.svg What I do
+###  :construction_worker: What I do
 - 😎 &mdash; Passionate about Python, clean code, MLops and statistics.
 - 🤔 &mdash; Try to contribute to open source more lately.
 - You can see in my repository some of my personal works that are public (most are outdated). 
