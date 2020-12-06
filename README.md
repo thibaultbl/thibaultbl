@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/main/wave.gif" width="30px">
-I am ... I do not really know, but I am working with data using statistics, machine learning & code everyday
+I am working with data using statistics, machine learning & code everyday
 
 
 # Thibault Blanc &mdash; @thibaultbl
