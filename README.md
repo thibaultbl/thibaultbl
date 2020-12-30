@@ -14,7 +14,7 @@ I participated to data science competition in the past (top 5% at "Predict the C
 
 ###  :construction_worker: What I do
 - :zap: &mdash; Passionate about Python, clean code, MLops and statistics.
-- :ocean: &mdash; Try to bring small contribution to open source.
+- :ocean: &mdash; .
 - :cyclone: &mdash;  You can see in my repository some of my personal works that are public (most are outdated). 
 
 <br> ![github stats](https://github-readme-stats.vercel.app/api?username=thibaultbl&show_icons=true)
