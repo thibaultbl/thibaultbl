@@ -31,4 +31,4 @@ I participate in data science competition from time to time (top 5% at "Predict 
 
 ### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultbl)](https://github.com/thibaultbl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultbl&hide=jupyter-notebook)](https://github.com/thibaultbl/github-readme-stats)
