@@ -28,7 +28,3 @@ I participate in data science competition from time to time (top 5% at "Predict 
 
 ### :deciduous_tree: How to Contact me!
 - LinkedIn: https://www.linkedin.com/in/thibault-blanc
-
-### Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultbl&hide='Jupyter Notebook')](https://github.com/thibaultbl/github-readme-stats)
