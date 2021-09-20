@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/main/wave.gif" width="30px">
+### Hi
 I am working with data using statistics, machine learning & code everyday
 
 
