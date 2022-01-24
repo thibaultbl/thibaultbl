@@ -9,7 +9,7 @@ Right now I'm working as a Machine Learning engineer in a confidential position,
 
 I like to bring values using data and I am passionate about Machine Learning in production.
 
-I participate in data science competition from time to time (top 5% at "Predict the Crude Oil production trend" by GROUPE SOCIETE GENERALE: https://challengedata.ens.fr/en/challenge/25/predict_the_crude_oil_production_trend.html, "Detecting Sleep Apnea from raw physiological signals" by DREEM https://challengedata.ens.fr/participants/challenges/45/), but I also have a lot of things to learn outside the modeling part of data science for the moment.
+I participate in data science competition from time to time (top 5% at "Predict the Crude Oil production trend" by GROUPE SOCIETE GENERALE: https://challengedata.ens.fr/en/challenge/25/predict_the_crude_oil_production_trend.html, 3rd place at "Detecting Sleep Apnea from raw physiological signals" by DREEM https://challengedata.ens.fr/participants/challenges/45/), but I also have a lot of things to learn outside the modeling part of data science for the moment.
 
 
 ###  :construction_worker: What I do
