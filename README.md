@@ -17,7 +17,7 @@ I participate in data science competition from time to time (top 5% at "Predict 
 - :ocean: &mdash; .
 - :cyclone: &mdash;  You can see in this repository some of my personal works that are public (using mainly gitlab for my personal projects now, most are outdated). 
 
-
+<br> ![github stats](https://github-readme-stats.vercel.app/api?username=thibaultbl&show_icons=true)
 
 ## :green_heart: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99b3ff)
