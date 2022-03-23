@@ -25,6 +25,5 @@ I participate in data science competition from time to time (top 5% at "Predict 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffb600)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=b3ff99)
 
-
 ### :deciduous_tree: How to Contact me!
 - LinkedIn: https://www.linkedin.com/in/thibault-blanc
