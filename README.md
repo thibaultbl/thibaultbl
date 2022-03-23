@@ -2,7 +2,7 @@
 I am working with data using statistics, machine learning & code everyday
 
 
-# Thibault Blanc &mdash; @thibaultbl
+# Thibault B. &mdash; @thibaultbl
 
 
 Right now I'm working as a Machine Learning engineer in a confidential position, focused on cybersecurities challenge. 
